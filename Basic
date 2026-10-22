@@ -1,0 +1,37 @@
+SQL
+
+SQL= Structured Query Language
+
+1) what the use for SQL ?
+
+   # Store/Data
+   # Retrive/Data
+   # Update/Data
+   # Delete/Data
+
+2) example
+
+              AI Attendance System
+    (Person Resistration,Attendance Records)
+                        |
+                        |
+                    Database
+              (Data Storing Place)
+                        |
+                        |
+                  SQL queries
+              (Tell About Action)
+
+3) SQL Foemate
+
+Excel Spreadsheet = Database Table
+(Database,Table,Row,Coloun)
+
+4) SQL Formate Example
+
+Example: students table
+
+student_id  	name	 age
+STU001	      Arun	 22
+STU002	      Priya	 21
+STU003	      Ravi	 23
