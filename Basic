@@ -9,7 +9,7 @@ SQL= Structured Query Language
    # Update/Data
    # Delete/Data
 
-2) example
+2) Work Flow xample
 
               AI Attendance System
     (Person Resistration,Attendance Records)
@@ -22,12 +22,22 @@ SQL= Structured Query Language
                   SQL queries
               (Tell About Action)
 
-3) SQL Foemate
+3) SQL commands:
+
+Command	Use
+
+CREATE	Table create panna
+INSERT	Data add panna
+SELECT	Data read panna
+UPDATE	Existing data change panna
+DELETE	Data delete panna
+
+4) SQL Foemate:
 
 Excel Spreadsheet = Database Table
 (Database,Table,Row,Coloun)
 
-4) SQL Formate Example
+5) SQL Formate Example:
 
 Example: students table
 
@@ -35,3 +45,25 @@ student_id  	name	 age
 STU001	      Arun	 22
 STU002	      Priya	 21
 STU003	      Ravi	 23
+
+6) creat table in SQL Command:
+
+CREATE TABLE students (
+    student_id TEXT PRIMARY KEY,
+    name TEXT,
+    age INTEGER
+);
+
+meaning of above the code or command
+
+SQL word	      Meaning
+
+CREATE	      Pudhu object create pannu
+TABLE	         Table create panna porom
+students	      Table-oda name
+student_id	   Column name
+TEXT	         String/text data store pannum
+PRIMARY KEY	   Ovvoru student-aiyum unique-ah identify pannum
+age	         Age store pannura column
+INTEGER	      Whole number store pannum
+
